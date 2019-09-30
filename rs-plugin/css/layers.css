@@ -3787,3 +3787,15 @@ website:   	http://www.themepunch.com
 		font-family: 'Hanuman', serif!important;
 		font-size: 150%!important;
 	}
+	.video{
+		margin-top: -400px;
+		display: block;
+	}
+	.address-video{
+		margin-top: -410px;
+		display: block;
+	}
+	.address-contact{
+		margin-top: -290px;
+		display: block;
+	}
